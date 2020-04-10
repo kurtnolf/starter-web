@@ -27,5 +27,5 @@ Git training
 Added some more text here while other branch is also updated
 
 Added another line, more text after rebase
-Text here:wq!
 Stash change
+Another stash change
