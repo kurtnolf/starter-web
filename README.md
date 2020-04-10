@@ -25,3 +25,5 @@ A lot more text
 Git training
 
 Added some more text here while other branch is also updated
+
+Added another line
