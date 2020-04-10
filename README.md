@@ -18,3 +18,8 @@ Test
 
 More text
 A lot more text
+
+
+### Copyright
+
+Git training
