@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Kurt Nolf	kurt.nolf@gmail.com	Twitter 
 
 # THANKS
 
