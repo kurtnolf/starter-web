@@ -23,3 +23,5 @@ A lot more text
 ### Copyright
 
 Git training
+
+Added some more text here while other branch is also updated
